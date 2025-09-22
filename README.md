@@ -10,6 +10,6 @@
   <a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="https://handwiki.org/wiki/images/thumb/b/b3/Zig_logo_2020.svg/1200px-Zig_logo_2020.svg.png" alt="zig" width="80" height="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AHP15&show_icons=true&locale=en&layout=compact" alt="ahp15" /></p>
+![ahp15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahp15&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
