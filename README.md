@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdessittir</h1>
-<h3 align="center">Computer Programmer</h3>
+<h3 align="center">Software Developer</h3>
 
 
 ![ahp15's Stats](https://github-readme-stats.vercel.app/api?username=ahp15&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
